@@ -1,0 +1,10 @@
+BeautifulSoup
+requests
+re
+sys
+datetime
+decouple
+googlemaps
+tqdm
+pytest
+lxml
