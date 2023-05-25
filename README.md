@@ -26,7 +26,7 @@ One improvement I plan to implement is to send all 95 clinic addresses at the sa
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+1. Clone the repository: `git clone https://github.com/apurvrdx1/Walkin-Clinic-Finder/`
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Set up your Google Maps API key: create a `.env` file in the root directory of the project and add `GOOGLE_MAPS_API_KEY=your_api_key_here`
 4. Run the program: `python project.py`
